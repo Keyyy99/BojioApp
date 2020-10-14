@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">BojioApp</string>
+    <string name="emailtxt">Email</string>
+    <string name="passtxt">Password</string>
+    <string name="signInbtn">SIGN IN</string>
+    <string name="signUpbtn">SIGN UP</string>
+    <string name="signinLink">Don\'t Have an Account?  Sign Up</string>
+    <string name="registerLink">Already Have an Account?  Sign in</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="username">Username</string>
+    <string name="confirmpass">Confirm Password</string>
+    <string name="forgotpass">Forgot Password?</string>
+
+    <!--Profile-->
+    <string name="profName">Name</string>
+    <string name="profAge">Age</string>
+    <string name="profGen">Gender</string>
+    <string name="profPhone">Phone No.</string>
+    <string name="profEmail">Email</string>
+    <string name="profBio">Introduction</string>
+    <string name="profNone">-</string>
+    <string name="editProf">Edit Profile</string>
+    <string name="updateProf">Update Profile</string>
+
+    <!--Request-->
+    <string name="add_request">Add Request</string>
+    <string name="request">Request</string>
+    <string name="t1">Title Name *:</string>
+    <string name="t1v">Title Name :</string>
+    <string name="t2">Date *:</string>
+    <string name="t2v">Date :</string>
+    <string name="t3">Time *:</string>
+    <string name="t3v">Time :</string>
+    <string name="t4">Location *:</string>
+    <string name="t4v">Location :</string>
+    <string name="t5">Description :</string>
+    <string name="t6">Category *:</string>
+    <string name="t6v">Category :</string>
+    <string name="t7">Number of participant *:</string>
+    <string name="t7v">Number of participant :</string>
+    <string name="eg1">(eg. Play Basketball)</string>
+    <string name="eg2">(eg. TARUC Basketball Court)</string>
+    <string name="eg3">[Current date will be record if date is not selected]</string>
+    <string name="eg4">[Current time will be record if time is not selected]</string>
+    <string-array name="pNum">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="categories">
+        <item>Sports</item>
+        <item>Entertainments</item>
+        <item>Games</item>
+        <item>Leisure</item>
+        <item>Education</item>
+    </string-array>
+    <string-array name="categories4All">
+        <item>All</item>
+        <item>Sports</item>
+        <item>Entertainments</item>
+        <item>Games</item>
+        <item>Leisure</item>
+        <item>Education</item>
+    </string-array>
+
+</resources>

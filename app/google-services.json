@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "268741758264",
+    "firebase_url": "https://bojioapp-bf834.firebaseio.com",
+    "project_id": "bojioapp-bf834",
+    "storage_bucket": "bojioapp-bf834.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268741758264:android:6e6e6773edefaedb9385cd",
+        "android_client_info": {
+          "package_name": "com.example.bojioapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268741758264-fnbhh5d0rcqc9vme4mj0m6jctus0g7tf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bojioapp",
+            "certificate_hash": "3a62edd40514a2fe88a339df5f5ab56bf80bfd11"
+          }
+        },
+        {
+          "client_id": "268741758264-tgbhhdtg912absa3q401cef77l97gjt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNm27sYGdBMyNeX5xmcWt8QbmBQuTrd0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268741758264-tgbhhdtg912absa3q401cef77l97gjt0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
